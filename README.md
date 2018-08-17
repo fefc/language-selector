@@ -17,3 +17,7 @@ To make the language selector visible by the user you need to insert the followi
   
 ## Costomizing language selector
 You can customize the language selector by editing the .css files included in assets/css.
+
+## Tested with
+Wordpress: 4.7
+MultilingualPress: 2.11.0
