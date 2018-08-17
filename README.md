@@ -1,5 +1,5 @@
 # language-selector
-Language selector feature for wordpress MultilingualPress plugin
+Language selector feature for the Wordpress MultilingualPress plugin 
 
 ## Purpose
 This feature extends the Wordpress MultilingualPress plugin (https://wordpress.org/plugins/multilingual-press/) by providing a language selector which will allow the user to navigate between the different languages of the website. If the current page/post/category/tag is translated in the other languages then the language selector will redirect the user to the translated page/post/category/tag. If the content has not been translated the user will be redirected to the homepage.
