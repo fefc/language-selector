@@ -13,7 +13,7 @@ Go to your MultilingualPress settings page, enable the Language Selector and sav
 ## Integration in a theme
 To make the language selector visible by the user you need to insert the following code in your wordpress theme (choose the place according to where you want the language selector do be displayed):
 
-  "<?php do_action( 'mlp_language_selector' ); ?>"
+  "do_action( 'mlp_language_selector' );" (add php tags if needed)
   
 ## Costomizing language selector
 You can customize the language selector by editing the .css files included in assets/css.
